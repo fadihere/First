@@ -1,4 +1,4 @@
-# first
+# First
 
 A new Flutter project.
 
